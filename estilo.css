@@ -1,0 +1,53 @@
+body{
+	background: blue;
+}
+
+h1{
+	color: black;
+}
+
+p{
+	color: black;
+}
+
+ol{
+	color: black;
+}
+
+nav{
+	background: blue;
+	padding: 10px;	
+	text-align: right;
+}
+li {
+	display: inline;
+	padding: 10px;
+}
+
+.img1{
+	width: 20%;
+}
+.img2{
+	width: 20%;
+}
+.principal{
+	background:url('../img/fondo1.png');
+	text-align: center;
+	height:400px;
+	background-size: 100%;
+	padding-top: 100px;
+}
+.videos{
+	background: #57FF3C;
+	text-align: center;
+	padding: 50px;
+}
+.experiencia{
+	background: #FF3C3C;
+}
+.formulario{
+	background: #FFED3C;
+}
+body{
+	 font-family: 'Nunito', sans-serif ;
+}
